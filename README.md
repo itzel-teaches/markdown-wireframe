@@ -6,7 +6,7 @@
 ## About Us Page
 
 ### Person 1: 
-Image about person 1 will go here 
+![Image about person 1 will go here](browser-large.png)
 
 Information about person 1 will go here 
 
