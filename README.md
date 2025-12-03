@@ -6,7 +6,7 @@
 ## About Us Page
 
 ### Person 1: 
-![Image about person 1 will go here](browser-large.png)
+![Image about person 1 will go here](browser-5.png)
 
 Information about person 1 will go here 
 
@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ---
 
 ### Person 2: 
-Image about person 2 will go here 
+![Image about person 2 will go here](browser-5.png) 
 
 Information about person 1 will go here
 
@@ -24,7 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ---
 
 ### Person 3: 
-Image about person 3 will go here 
+![Image about person 3 will go here](browser-5.png)
 
 Information about person 3 will go here 
 
